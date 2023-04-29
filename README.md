@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @akhilmishra210
 - 👀 I’m interested in Software Development, Web Development and Data Science
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java
+-  Additional Languages Python, Html, CSS and Jscript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
