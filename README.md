@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhilmishra210
 - 👀 I’m interested in Software Development, Web Development and Data Science
 - 🌱 I’m currently learning Java
--  Additional Languages Python, Html, CSS, Jscript, PHP, TailwindCSS, Bootstrap, SQL 
+-  Additional Skills Python, Html, CSS, Jscript, PHP, TailwindCSS, Bootstrap, SQL 
 - 💞️ I’m looking to collaborate on a project about android and web development.
 - 📫 Email: mishraakhil210@gmail.com
 
