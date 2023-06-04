@@ -8,7 +8,7 @@
 I'm a passionate developer with a love for coding and creating innovative solutions.
 
 <!-- Social Media Links -->
-[![Twitter](https://img.shields.io/badge/twitter-green)](https://twitter.com/your-twitter-handle)
+[![Twitter](https://img.shields.io/badge/twitter-follow-green)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)
 
