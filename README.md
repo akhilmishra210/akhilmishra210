@@ -10,7 +10,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - 🔭 I’m currently learning Java and Android Development.
 
 <!-- Social Media Links -->
-[![Twitter](https://img.shields.io/badge/twitter-follow-green?style=social)](https://twitter.com/akhilmishra210)
+[![Twitter](https://img.shields.io/badge/twitter-follow-green)](https://twitter.com/akhilmishra210)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akhilmishra210)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://akhilmishra210.github.io)
 
