@@ -8,9 +8,9 @@
 I'm a passionate developer with a love for coding and creating innovative solutions. I specialize in XYZ technologies and enjoy working on various projects.
 
 <!-- Social Media Links -->
-//[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-//[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-//[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)
 
 <!-- Project Showcase -->
 ## My Projects
