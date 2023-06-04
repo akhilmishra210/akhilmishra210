@@ -5,19 +5,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akhilmishra210)
 
 <!-- Introduction -->
-I'm a passionate developer with a love for coding and creating innovative solutions. I specialize in XYZ technologies and enjoy working on various projects.
+I'm a passionate developer with a love for coding and creating innovative solutions.
 
 <!-- Social Media Links -->
-[![Twitter](https://img.shields.io/badge/twitter/follow-visit-alice-blue)](https://twitter.com/your-twitter-handle)
+[![Twitter](https://img.shields.io/badge/twitter-green)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://yourwebsite.com)
 
 <!-- Project Showcase -->
 ## My Projects
 
-- [Project 1](https://github.com/akhilmishra210/project-1): Brief description of the project.
-- [Project 2](https://github.com/akhilmishra210/project-2): Brief description of the project.
-- [Project 3](https://github.com/akhilmishra210/project-3): Brief description of the project.
+Wait for it. ;)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
