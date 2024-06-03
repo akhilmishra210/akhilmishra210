@@ -7,7 +7,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 <!-- Current Learning Language -->
 ## Currently Learning
 
-- 🔭 I’m currently learning Java and Android Development.
+- 🔭 I’m currently learning Data Structures and Algorithms.
 
 <!-- Social Media Links -->
 [![Twitter](https://img.shields.io/badge/twitter-follow-green)](https://twitter.com/akhilmishra210)
